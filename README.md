@@ -8,7 +8,7 @@ Neovim theme for all the people who love to code in deep dark spaces.
 
 ```lua
 use {
-  'Garoze/celestial.nvim',
+  'Garoze/celestial.nvim', branch = 'feature/colorscheme',
   requires = { 'nvim-treesitter/nvim-treesitter', opt = true }
 }
 ```
